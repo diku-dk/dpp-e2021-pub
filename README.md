@@ -30,8 +30,7 @@ course - you will be assigned reading material from papers and such.
 
 * Wednesday 13:00 - 17:00 (weeks 47-51, 1-3, in øv - Auditorium Syd, Nørre Alle 51, NEXS) 
 
-[Location of lectures and labs:]
-(https://skema.ku.dk/tt/tt.asp?SDB=ku2122&language=EN&folder=Reporting&style=textspreadsheet&type=student+set&idtype=id&id=167421&weeks=1-53&days=1-7&periods=1-68&width=0&height=0&template=SWSCUST+student+set+textspreadsheet)
+[Location of lectures and labs](https://skema.ku.dk/tt/tt.asp?SDB=ku2122&language=EN&folder=Reporting&style=textspreadsheet&type=student+set&idtype=id&id=167421&weeks=1-53&days=1-7&periods=1-68&width=0&height=0&template=SWSCUST+student+set+textspreadsheet)
 
 The current plan is that everybody will have a physical place
 at the lecture and lab. Unless we are forced to move to virtual
