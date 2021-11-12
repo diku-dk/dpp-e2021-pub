@@ -42,12 +42,11 @@ zoom them online).
 
 This course schedule is tentative and will be updated as we go along.
 **The schedule below will become the correct one as you enter the
-week when the course starts (the day dates of lectures and labs 
-have not been updated yet since last year).**
+week when the course starts.**
 
 The lab sessions are aimed at providing help for the weeklies and
-group project.  Do not assume you can solve them without showing up to
-the lab sessions.
+group project.  Do not assume you can solve them without showing
+up to the lab sessions.
 
 
 | Date | Time | Topic | Material |
