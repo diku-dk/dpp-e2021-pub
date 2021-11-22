@@ -205,3 +205,8 @@ noted, but they contain useful and interesting background information.
 * ["Performance Matters" by Emery Berger](https://www.youtube.com/watch?v=r-TLSBdHe1A)
 
 * [The story of `ispc`](https://pharr.org/matt/blog/2018/04/18/ispc-origins.html) (you can skip the stuff about office politics, although it might ultimately be the most valuable part of the story)
+
+* [Scientific Benchmarking of Parallel Computing
+  Systems](https://htor.inf.ethz.ch/publications/img/hoefler-scientific-benchmarking.pdf)
+  (we benchmark much simpler systems and don't expect anywhere near
+  this much detail, but it's useful to have thought about it)
