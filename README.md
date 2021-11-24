@@ -132,6 +132,33 @@ machines have a shared home directory (which is very slow), *except*
 `gpu01-diku-apl`, which has its own home directory (which is a little
 faster).
 
+### SSH setup
+
+To enable more convenient access to the servers, you can add entries
+to your `~/.ssh/config` file.  Example:
+
+```
+Host gpu04-diku-apl
+HostName mzd885@gpu04-diku-apl
+ProxyJump mzd885@ssh-diku-apl.science.ku.dk
+User mzd885
+ForwardAgent yes
+```
+
+Replace `gpu04-diku-apl` with the server you want and `mzd885` with
+your KU license plate (unless you are fortunate enough to be Troels).
+After this you can use `ssh gpu04-diku-apl` to log in directly
+(although you will still need to enter your password twice).
+
+The real win is that now you can use
+[sshfs](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
+to mount the remote file system on your local machine:
+
+```
+$ mkdir remote
+$ sshfs gpu04-diku-apl: remote
+```
+
 ### GPU setup
 
 For CUDA to work, you may need to add the following to your `$HOME/.bash_profile`:
