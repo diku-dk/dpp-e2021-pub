@@ -139,8 +139,8 @@ to your `~/.ssh/config` file.  Example:
 
 ```
 Host gpu04-diku-apl
-HostName mzd885@gpu04-diku-apl
-ProxyJump ssh-diku-apl.science.ku.dk
+HostName gpu04-diku-apl
+ProxyJump mzd885@ssh-diku-apl.science.ku.dk
 User mzd885
 ForwardAgent yes
 ```
