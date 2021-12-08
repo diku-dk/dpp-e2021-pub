@@ -47,6 +47,7 @@ The lab sessions are aimed at providing help for the weeklies and
 group project.  Do not assume you can solve them without showing
 up to the lab sessions.
 
+[Zoom link for lectures](https://ucph-ku.zoom.us/j/67002083301?pwd=SjdGdlZmRllXMEd1VVcxU0p6QlR1Zz09)
 
 | Date | Time | Topic | Material |
 | --- | --- | --- | --- |
