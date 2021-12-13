@@ -64,14 +64,14 @@ up to the lab sessions.
 | 15/12 | 10:00-12:00 | to be announced | to be announced
 | 15/12 | 13:00-17:00 | Lab ([**Assignment 4 handout**](weekly-4)) | |
 | 20/12 | 13:00-15:00 | [Data-parallel automatic differentiation](slides/L9-reverse-ad.pdf) | [Automatic Differentiation in Machine Learning: a Survey, Baydin et. al.](material/automatic_differentiation_in_ml_baydin.pdf), [autodiff.fut](material/autodiff.fut) |
-| 22/12 | 10:00-12:00 | Lab (with project proposals) | |
-| 22/12 | 13:00-15:00 | Lab | |
+| 22/12 | 10:00-12:00 | [Data-parallel automatic differentiation](slides/L9-reverse-ad.pdf) | same material as previous lecture |
+| 22/12 | 13:00-15:00 | Lab (with project proposals) | |
 
 After New Years, *maybe* there will be no lectures (we are still thinking on it),
 but labs will still be held to help with the group project.
 
 | Date | Time |
-| --- | --- |
+| ---  | ---  |
 | 05/1 | 13:00-17:00 |
 | 12/1 | 13:00-17:00 |
 | 19/1 | 13:00-17:00 |
