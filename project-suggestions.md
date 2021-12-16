@@ -66,7 +66,7 @@ have an interest in the `lbm` benchmark.
 
 ## Flattening a Batch of Rank-Search-k Problems
 
-[See project description here](some-suggested-projects/rank-search-k)
+[See project description here](some-suggested-projects/rank-search-k/Project-RankSearch-k.pdf)
 
 [The Cub Library and a template program using CUB's radix sort are provided here](some-suggested-projects/)
 
