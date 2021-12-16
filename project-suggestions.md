@@ -57,3 +57,16 @@ implementations of `histo`, `mri-q`, `sgemm`, `stencil`, and
 `tpacf`](https://github.com/diku-dk/futhark-benchmarks/tree/master/parboil),
 so we are mostly interested in the remaining ones.  In particular, we
 have an interest in the `lbm` benchmark.
+
+## Fast Radix-Sort in Futhark
+
+[See project reseources here, including a short document introducing the project, namely Project-Sorting.pdf](some-suggested-projects/fast-radix-futhark)
+
+[The Cub Library and a template program using CUB's radix sort are provided here](some-suggested-projects/)
+
+## Flattening a Batch of Rank-Search-k Problems
+
+[See project description here](some-suggested-projects/rank-search-k)
+
+[The Cub Library and a template program using CUB's radix sort are provided here](some-suggested-projects/)
+
