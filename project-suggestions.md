@@ -70,3 +70,17 @@ have an interest in the `lbm` benchmark.
 
 [The Cub Library and a template program using CUB's radix sort are provided here](some-suggested-projects/)
 
+## Porting PBBS benchmarks
+
+The [Problem Based Benchmark
+Suite](https://cmuparlay.github.io/pbbsbench/) is a collection of
+benchmark programs written in parallel C++.  We are interested in
+porting them to a high-level parallel language (e.g. Futhark).  Some
+of the benchmarks are relatively trivial; others are more difficult.
+It might be a good idea for a project to combine a trivial benchmark
+with a more complex one.  The [list of benchmarks is
+here](https://cmuparlay.github.io/pbbsbench/benchmarks/index.html).
+The ones listed as *Basic Building Blocks* are all pretty
+straightforward.  Look at the others and pick whatever looks
+interesting (but talk to us first - some, e.g. rayCast, involve no
+interesting parallelism, and so are not a good DPP project).
