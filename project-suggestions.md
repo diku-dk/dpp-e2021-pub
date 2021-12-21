@@ -70,6 +70,10 @@ have an interest in the `lbm` benchmark.
 
 [The Cub Library and a template program using CUB's radix sort are provided here](some-suggested-projects/)
 
+## Compiler Enhancements to Reverse AD
+
+[See project description here](some-suggested-projects/compiler-ad/Compiler-AD-Topics.pdf)
+
 ## Porting PBBS benchmarks
 
 The [Problem Based Benchmark
