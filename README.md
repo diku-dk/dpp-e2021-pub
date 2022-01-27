@@ -49,6 +49,8 @@ up to the lab sessions.
 
 [Zoom link for lectures](https://ucph-ku.zoom.us/j/67002083301?pwd=SjdGdlZmRllXMEd1VVcxU0p6QlR1Zz09)
 
+### Lecture plan
+
 | Date | Time | Topic | Material |
 | --- | --- | --- | --- |
 | 22/11 | 13:00-15:00 | [Intro, deterministic parallelism, data parallelism, Futhark](slides/L1-determ-prog.pdf) | [Parallel Programming in Futhark](https://futhark-book.readthedocs.io/en/latest/), sections 1-4, [Futhark exercises](bootstrap-exercises.md) | |
